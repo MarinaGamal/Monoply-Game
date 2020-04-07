@@ -1,0 +1,5 @@
+
+*.properties
+/Monopoly/nbproject/private/
+/Monopoly/dist/
+/Monopoly/build/
